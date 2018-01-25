@@ -1,0 +1,19 @@
+{
+  "name": "web_scraping_js_lw",
+  "version": "1.0.0",
+  "description": "Workshop de Iniciação ao Web Scraping - Por Le Wagon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roger8b/web_scraping_js_lw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roger8b/web_scraping_js_lw/issues"
+  },
+  "homepage": "https://github.com/roger8b/web_scraping_js_lw#readme"
+}
